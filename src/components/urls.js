@@ -1,5 +1,6 @@
-const BASE_URL = "https://king-geepay-server.vercel.app";
+const BASE_URL = "https://luke-raenestserver.vercel.app";
 
 export default BASE_URL;
+
 
 
